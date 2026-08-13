@@ -1,0 +1,298 @@
+== 歴代藩主 ==
+=== 武田家 ===
+'''[[親藩]]'''、石高:'''4万石'''
+{| class="wikitable" style="text-align:center" border="1" frame="box" rules="all" cellspacing="0" cellpadding="3"
+|- style="background:#eee"
+! 代
+! 氏名
+! 在職期間
+! 出自
+|-
+! style="background:#eee"|1
+| [[武田信吉]]<br /><small>たけだ　のぶよし</small>
+| [[文禄]]元年3月 - [[慶長]]7年11月28日<br />（[[1593年]] - [[1627年]]）
+| [[徳川家康]]の5男<br />[[水戸藩]]へ
+|}
+
+=== 長沢松平家 ===
+'''親藩'''、石高:'''5万石'''
+{| class="wikitable" style="text-align:center" border="1" frame="box" rules="all" cellspacing="0" cellpadding="3"
+|- style="background:#eee"
+! 代
+! 氏名
+! 肖像
+! 受領名
+! 在職期間
+! 出自
+|-
+! style="background:#eee"|1
+| [[松平忠輝]]<br /><small>まつだいら　ただてる</small>
+| [[File:Matsudaira Tadateru.jpg|100px]]
+| [[左少将]]・[[上総介]]
+| 慶長7年12月 - 慶長8年2月18日<br />（[[1649年]]8月11日 - [[1670年]]5月27日）
+| 徳川家康の6男<br />[[深谷藩]]より<br />[[川中島藩]]へ
+|}
+
+=== 小笠原家 ===
+'''[[譜代大名]]'''、石高:'''2万8000石'''
+{| class="wikitable" style="text-align:center" border="1" frame="box" rules="all" cellspacing="0" cellpadding="3"
+|- style="background:#eee"
+! 代
+! 氏名
+! 肖像
+! 受領名
+! 在職期間
+! 出自
+|-
+! style="background:#eee"|1
+| [[小笠原吉次]]<br /><small>おがさわら　よしつぐ</small>
+| [[File:Ogasawara Yoshitsugu.jpg|100px]]
+| [[和泉守]]
+| 慶長12年閏4月 - 慶長13年9月<br />（[[1678年]]3月15日 - [[1686年]]9月4日）
+| 新知<br />[[笠間藩]]へ
+|}
+
+=== 土井家 ===
+'''[[譜代大名]]'''、石高:'''3万2000石'''→'''4万5000石'''→'''6万2500石'''→'''14万2000石'''
+{| class="wikitable" style="text-align:center" border="1" frame="box" rules="all" cellspacing="0" cellpadding="3"
+|- style="background:#eee"
+! 代
+! 氏名
+! 肖像
+! 受領名
+! 在職期間
+! 出自
+|-
+! style="background:#eee"|1
+| [[土井利勝]]<br /><small>どい　としかつ</small>
+| [[File:Doi Toshikatu.jpg|100px]]
+| [[大炊頭]]
+| 慶長15年2月 - [[寛永]]10年4月7日<br />（[[1691年]]3月8日 - [[1713年]]7月17日）
+| [[小見川藩]]より<br />[[古河藩]]へ
+|}
+
+=== 石川家 ===
+'''譜代大名'''、石高:'''7万石'''
+{| class="wikitable" style="text-align:center" border="1" frame="box" rules="all" cellspacing="0" cellpadding="3"
+|- style="background:#eee"
+! 代
+! 氏名
+! 受領名
+! 在職期間
+! 出自
+|-
+! style="background:#eee"|1
+| [[石川忠総]]<br /><small>いしかわ　ただふさ</small>
+| 主殿頭
+| 寛永10年6月7日 - 寛永11年閏7月6日<br />（1762年11月15日 - [[1775年]]10月17日）
+| [[日田藩]]より<br />[[膳所藩]]へ
+|}
+
+=== 形原松平家 ===
+'''[[譜代大名]]'''、石高:'''4万石'''→'''3万6000石''''
+{| class="wikitable" style="text-align:center" border="1" frame="box" rules="all" cellspacing="0" cellpadding="3"
+|- style="background:#eee"
+! 代
+! 氏名
+! 受領名
+! 在職期間
+! 出自
+|-
+! style="background:#eee"|1
+| [[松平家信]]<br /><small>まつだいら　いえのぶ</small>
+| [[主殿頭]]
+| 寛永12年2月29日 - 寛永15年1月14日<br />（1817年10月24日 - [[1823年]]11月1日）
+| [[高槻藩]]より
+|-
+! style="background:#eee"|2
+| [[松平康信]]<br /><small>まつだいら　やすのぶ</small>
+| [[紀伊守]]
+| 寛永15年5月16日 - 寛永17年9月28日<br />（1823年 - [[1833年]]11月1日）
+| 先代の子<br />[[高槻藩]]へ
+|}
+
+=== 堀田家 ===
+'''[[譜代大名]]'''、石高:'''11万石'''
+{| class="wikitable" style="text-align:center" border="1" frame="box" rules="all" cellspacing="0" cellpadding="3"
+|- style="background:#eee"
+! 代
+! 氏名
+! 肖像
+! 受領名
+! 在職期間
+! 出自
+|-
+! style="background:#eee"|1
+| [[堀田正盛]]<br /><small>ほった　まさもり</small>
+| [[File:Hotta Masamori.png|100px]]
+| [[出羽守]]・[[加賀守]]
+| 寛永19年7月16日 - 慶安4年4月20日<br />（1817年10月24日 - [[1823年]]11月1日）
+| [[松本藩]]より
+|-
+! style="background:#eee"|2
+| [[堀田正信]]<br /><small>ほった　まさのぶ</small>
+| [[File:Hotta Masanobu.jpg|100px]]
+| [[上野介]]
+| 慶安4年8月14日 - 万治3年11月<br />（1823年 - [[1833年]]11月1日）
+| 先代の子<br />改易
+|}
+
+=== 大給松平家 ===
+'''[[譜代大名]]'''、石高:'''6万石'''
+{| class="wikitable" style="text-align:center" border="1" frame="box" rules="all" cellspacing="0" cellpadding="3"
+|- style="background:#eee"
+! 代
+! 氏名
+! 受領名
+! 在職期間
+! 出自
+|-
+! style="background:#eee"|1
+| [[松平乗久]]<br /><small>まつだいら　のりひさ</small>
+| [[和泉守]]
+| 寛文元年閏8月3日 - 延宝6年1月23日<br />（1817年10月24日 - [[1823年]]11月1日）
+| [[館林藩]]より<br />[[唐津藩]]へ
+|}
+
+=== 大久保家 ===
+'''[[譜代大名]]'''、石高:'''8万3000石'''
+{| class="wikitable" style="text-align:center" border="1" frame="box" rules="all" cellspacing="0" cellpadding="3"
+|- style="background:#eee"
+! 代
+! 氏名
+! 受領名
+! 在職期間
+! 出自
+|-
+! style="background:#eee"|1
+| [[大久保忠朝]]<br /><small>おおくぼ　ただとも</small>
+| [[出羽守]]・[[加賀守]]
+| 延宝6年1月23日 - 貞享3年1月21日<br />（1817年10月24日 - [[1823年]]11月1日）
+| [[唐津藩]]より<br />[[小田原藩]]へ
+|}
+
+=== 戸田家 ===
+'''[[譜代大名]]'''、石高:'''6万1000石'''→'''7万1000石'''→'''6万7800石'''
+{| class="wikitable" style="text-align:center" border="1" frame="box" rules="all" cellspacing="0" cellpadding="3"
+|- style="background:#eee"
+! 代
+! 氏名
+! 受領名
+! 在職期間
+! 出自
+|-
+! style="background:#eee"|1
+| [[戸田忠昌]]<br /><small>とだ　ただまさ</small>
+| [[伊賀守]]・[[越前守]]・[[山城守]]
+| 貞享3年1月21日 - 元禄12年9月10日<br />（1817年10月24日 - [[1823年]]11月1日）
+| [[岩槻藩]]より
+|-
+! style="background:#eee"|2
+| [[戸田忠真]]<br /><small>とだ　ただざね</small>
+| [[日向守]]・[[能登守]]・[[山城守]]
+| 元禄12年閏9月23日 - 元禄14年6月14日<br />（1823年 - [[1833年]]11月1日）
+| 先代の子<br />[[高田藩]]へ
+|}
+
+=== 稲葉家 ===
+'''[[譜代大名]]'''、石高:'''10万2000石'''
+{| class="wikitable" style="text-align:center" border="1" frame="box" rules="all" cellspacing="0" cellpadding="3"
+|- style="background:#eee"
+! 代
+! 氏名
+! 受領名
+! 在職期間
+! 出自
+|-
+! style="background:#eee"|1
+| [[稲葉正往]]<br /><small>いなば　まさゆき</small>
+| [[丹後守]]
+| 元禄14年6月14日 - 宝永4年8月21日<br />（1817年10月24日 - [[1823年]]11月1日）
+| [[高田藩]]より
+|-
+! style="background:#eee"|2
+| [[稲葉正知]]<br /><small>いなば　まさとも</small>
+| [[美濃守]]・[[長門守]]・[[丹後守]]
+| 宝永4年8月21日 - 享保8年5月1日<br />（1823年 - [[1833年]]11月1日）
+| 先代の子<br />[[淀藩]]へ
+|}
+
+=== 大給松平家 ===
+'''[[譜代大名]]'''、石高:'''6万石'''
+{| class="wikitable" style="text-align:center" border="1" frame="box" rules="all" cellspacing="0" cellpadding="3"
+|- style="background:#eee"
+! 代
+! 氏名
+! 肖像
+! 受領名
+! 在職期間
+! 出自
+|-
+! style="background:#eee"|1
+| [[松平乗邑]]<br /><small>まつだいら　のりさと</small>
+|
+| [[和泉守]]
+| 享保8年5月1日 - 延享2年10月10日<br />（1817年10月24日 - [[1823年]]11月1日）
+| 松平乗久の孫<br />[[淀藩]]へ
+|-
+! style="background:#eee"|2
+| [[松平乗佑]]<br /><small>まつだいら　のりすけ</small>
+|
+| 和泉守
+| 延享2年10月10日 - 延享3年1月23日<br />（1823年 - [[1833年]]11月1日）
+| 先代の子<br />[[山形藩]]へ
+|}
+
+=== 堀田家 ===
+'''[[譜代大名]]'''、石高:'''10万石'''→'''11万石'''
+{| class="wikitable" style="text-align:center" border="1" frame="box" rules="all" cellspacing="0" cellpadding="3"
+|- style="background:#eee"
+! 代
+! 氏名
+! 肖像
+! 受領名
+! 在職期間
+! 出自
+|-
+! style="background:#eee"|1
+| [[堀田正亮]]<br /><small>ほった　まさすけ</small>
+|
+| [[相模守]]
+| 延享3年1月23日 - 宝暦11年2月8日<br />（1817年10月24日 - [[1823年]]11月1日）
+| 堀田正盛の子孫<br />[[山形藩]]より
+|-
+! style="background:#eee"|2
+| [[堀田正順]]<br /><small>ほった　まさなり</small>
+|
+| [[相模守]]
+| 宝暦11年3月26日 - 文化2年7月12日<br />（1823年 - [[1833年]]11月1日）
+| 先代の子
+|-
+! style="background:#eee"|3
+| [[堀田正時]]<br /><small>ほった　まさとき</small>
+|
+| [[相模守]]
+| 文化2年8月27日 - 文化8年4月10日<br />（1817年10月24日 - [[1823年]]11月1日）
+| 先代の弟
+|-
+! style="background:#eee"|4
+| [[堀田正愛]]<br /><small>ほった　まさちか</small>
+|
+| [[相模守]]
+| 文化8年5月25日 - 文政8年1月22日<br />（1823年 - [[1833年]]11月1日）
+| [[堀田正功]]（堀田正順の子）の子
+|-
+! style="background:#eee"|5
+| [[堀田正睦]]<br /><small>ほった　まさよし</small>
+| [[File:Daimyo_Hotta_Masayoshi.png|100px]]
+| [[相模守]]・[[備中守]]
+| 文政8年3月8日 - 安政6年9月6日<br />（1817年10月24日 - [[1823年]]11月1日）
+| 堀田正時の子
+|-
+! style="background:#eee"|6
+| [[堀田正倫]]<br /><small>ほった　まさみち</small>
+| [[File:Hotta Masatomo.jpg|100px]]
+| [[相模守]]
+| 安政6年9月6日 - 明治4年7月14日<br />（1823年 - [[1833年]]11月1日）
+| 先代の子
+|}
