@@ -411,10 +411,19 @@
 {{Reflist|2}}
 
 == 参考文献 ==
-* {{Citation|和書|title=千葉県教育振興財団研究紀要 第28号 房総における近世陣屋 |publisher=千葉県教育振興財団 |year=2013 |url=https://www.echiba.org/wp-content/uploads/2022/12/kiyo_028.pdf |ref={{SfnRef|『房総における近世陣屋』}} }}
+* {{Cite book |和書 |author=[[木村礎]] ほか|editor1=[[木村礎]]|editor2=[[杉本敏夫]]|title=譜代藩政の展開と明治維新 : 下総佐倉藩|publisher=文雅堂銀行研究社|date=1963-10-25 |url=https://dl.ndl.go.jp/pid/3010171|doi=10.11501/3010171 |ref=木村 1963 }}
+* {{Cite book |和書 |author=[[篠丸頼彦]] ほか|editor1=佐倉市史編さん委員会|title=佐倉市史 巻1|publisher=佐倉市|date=1971-3-25 |url=https://dl.ndl.go.jp/pid/9640975|doi=10.11501/9640975 |ref=佐倉市 1971 }}
+* {{Cite book |和書 |author=[[篠丸頼彦]] ほか|editor1=佐倉市史編さん委員会|title=佐倉市史 巻2|publisher=佐倉市|date=1973-3-25 |url=https://dl.ndl.go.jp/pid/9640976|doi=10.11501/9640976 |ref=佐倉市 1973 }}
+* {{Cite book |和書 |author=木村礎 ほか|title=新編物語藩史 第3巻|publisher=[[新人物往来社]]|date=1976-3-1 |url=https://dl.ndl.go.jp/pid/12279533|doi=10.11501/12279533 |ref=木村 1976 }}
+* {{Cite book |和書 |author=秋永実 ほか116名|title=藩史総覧|publisher=新人物往来社|date=1977-12-10 |ref=藩史総覧 }}
+* {{Cite book |和書 |author=[[篠丸頼彦]] ほか|editor1=佐倉市史編さん委員会|title=佐倉市史 巻3|publisher=佐倉市|date=1979-3-25 |url=https://dl.ndl.go.jp/pid/9641650|doi=10.11501/9641650 |ref=佐倉市 1979 }}
 * {{Citation|和書|author=[[柴田龍司]] |title=戦国時代末期の城郭からみた権力構造 ―下総･原氏を中心として―|journal=[http://www.echiba.org/kiyo2.html 千葉県教育振興財団研究紀要] |issue=20 |publisher  = 千葉県教育振興財団 |year=1986 |url=http://www.echiba.org/pdf/kiyo/kiyo_divi/kd010/kiyo_010_17.pdf |ref=harv }}
+* {{Cite book |和書 |author=[[大友一雄]]ほか|editor1=[[木村礎]]|editor2=[[藤野保]]|editor3=[[村上直 (歴史学者)|村上直]]|title=第2巻 関東編|series=藩史大事典|publisher=[[雄山閣|雄山閣出版株式会社]]|date=1989-11-05 |isbn=4-639-00728-0 |ref=大友 1989 }}
 * {{citation|和書|title=日本歴史地名大系12 千葉県の地名|publisher=平凡社|year=1996|ref={{SfnRef|『日本歴史地名大系 千葉県の地名』}} }}
-
+* {{Cite book |和書 |author1=[[清水理繪]] ほか|title=三百藩戊辰戦争事典（上）|publisher=新人物往来社|date=2000-01-25 |isbn=4-404-02821-0 |ref=清水 2000 }}
+* {{Cite book |和書 |author1=[[大野瑞男]]|author2=[[工藤航平]]|author3=[[川上雅]]|author4=[[高木俊輔 (史学者)|高木俊輔]] ほか|editor=大石学|title=近世藩制・藩校大図鑑|publisher=[[吉川弘文館]]|date=2006-03-10 |isbn=4-642-01431-4 |ref=大石 2006 }}
+* {{Cite book |和書 |author=工藤寛正|authorlink=工藤寛正|title=徳川・松平一族の事典|publisher=東京堂出版|date=2009-08-20 |isbn=978-4-490-10764-7 |ref=工藤 2009 }}
+* {{Citation|和書|title=千葉県教育振興財団研究紀要 第28号 房総における近世陣屋 |publisher=千葉県教育振興財団 |year=2013 |url=https://www.echiba.org/wp-content/uploads/2022/12/kiyo_028.pdf |ref={{SfnRef|『房総における近世陣屋』}} }}
 
 == 関連項目 ==
 * [[立身流]]
