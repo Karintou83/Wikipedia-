@@ -1,0 +1,48 @@
+{{Infobox artifact
+| name          = 文祢麻呂墓出土品
+| image         = 
+| image_caption = 
+| material      = 
+| size          = 
+| writing       =
+| created       = [[慶雲]]4年（[[707年]]）
+| discovered    = 文祢麻呂墓（[[奈良県]][[宇陀市]]）
+| location      = [[東京国立博物館]]（[[東京都]][[台東区]]）
+| id            = J-39201 - J-39203（東京国立博物館）
+}}
+
+'''文祢麻呂墓出土品'''（ふみのねまろぼしゅつどひん）は、[[奈良県]][[宇陀市]]の文祢麻呂墓からの出土品の総称である。[[文祢麻呂]]は、[[慶雲]]4年（[[707年]]）に死去し火葬された。その墓は、[[天保]]2年（[[1831年]]）に農民によって発見された。出土品のうち、墓誌およびその銅箱、瑠璃骨壺、金銅壺は、のちに[[国宝]]にも指定された。火葬墓およびその墓誌としては、（年代が明らかになっているうちでは）日本最古級の史料でもある。
+
+== 来歴 ==
+=== 文祢麻呂の生涯 ===
+=== 日本における火葬 ===
+=== 文祢麻呂墓の発見 ===
+
+== 構成品 ==
+=== 文祢麻呂墓碑 ===
+=== 瑠璃骨壺 ===
+=== 金銅壺 ===
+
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 注釈 ===
+{{Notelist}}
+=== 出典 ===
+{{Reflist|2}}
+
+== 参考文献 ==
+* {{Cite journal|和書|author=由水常雄|year=1971|month=11|title=分禰麻呂の緑ガラス骨壺と宮地岳神社境内出土の緑ガラス骨壺の問題|journal=考古学雑誌|volume=57|issue=2|publisher=日本考古学会|pages=59–69|ref=harv}}
+* {{Cite journal|和書|author=奥村秀雄|year=1973|month=9|title=国宝文祢麻呂墓出土品 奈良県宇陀郡榛原町八滝出土(前篇)|journal=Museum|issue=270|publisher=東京国立博物館|pages=4–15|url=https://dl.ndl.go.jp/pid/4429659|ref=harv}}
+* {{Cite journal|和書|author=奥村秀雄|year=1973|month=12|title=国宝 文祢麻呂墓出土品 奈良県宇陀郡榛原町八滝出土(後篇)|journal=Museum|issue=273|publisher=東京国立博物館|pages=4–18|url=https://dl.ndl.go.jp/pid/4429662|ref=harv}}
+* {{Cite journal|和書|author=関忠夫|year=1975|month=3|title=宝珠の造形意匠|journal=東京国立博物館紀要|issue=10|pages=229–304|ref=harv}}
+* {{Cite book|和書|year=1976|title=国宝 原色版 1 上古・飛鳥・奈良 1|publisher=毎日新聞社}}
+* {{Cite book|和書|author=由水常雄・棚橋淳二|year=1977|title=東洋のガラス 中国・朝鮮・日本|publisher=三彩社|ref=harv}}
+* {{Cite book|和書|author=奈良国立文化財研究所飛鳥資料館 編|year=1979|title=日本古代の墓誌|publisher=同朋舎|url=https://dl.ndl.go.jp/pid/12207280|ref=harv}}
+* {{Cite book|和書|author=奈良県立橿原考古学研究所 編|year=1982|title=榛原町文祢麻呂墓 発掘調査概報|publisher=榛原町教育委員会|ncid=BA41267424|ref=harv}}
+* {{Cite book|和書|author=橿原考古学研究所附属博物館 編|year=1983|title=大和出土の国宝・重要文化財|publisher=同朋舎出版|url=https://dl.ndl.go.jp/pid/12712283|isbn=4-8104-0299-1|ref=harv}}
+* {{Cite journal|和書|author=林佳美|year=2015|month=3|title=奈良県宇陀市出土 文祢麻呂骨蔵器の造形的特質ならびに製作背景|journal=東京藝術大学美術学部論叢|issue=11|pages=1–14|ref=harv}}
+
+{{デフォルトソート:ふみのねまろほしゆつとひん}}
+[[Category:東京国立博物館の収蔵品]]
+[[Category:東京都区部の国宝]]
+[[Category:ガラス工芸]]
