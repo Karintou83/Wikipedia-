@@ -1,0 +1,42 @@
+{{Infobox artifact
+| name          = 瑠璃骨壺
+| image         = File:J-39203 E0043950.jpg
+| image_caption = 
+| material      = [[ガラス]]
+| size          = 
+| writing       =
+| created       = [[慶雲]]4年（[[707年]]）
+| discovered    = 文祢麻呂墓（[[奈良県]][[宇陀市]]）
+| location      = [[東京国立博物館]]（[[東京都]][[台東区]]）
+| id            = J-39203（東京国立博物館）<ref name="Col3">{{Cite web |url=https://colbase.nich.go.jp/collection_items/tnm/J-39203?locale=ja |title=瑠璃骨壺 |website=ColBase: 国立文化財機構所蔵品統合検索システム|publisher=[[国立文化財機構]] |accessdate=2026-10-25 }}</ref><br/>00023（国宝指定番号）<ref name="dbhk"/>
+}}
+
+瑠璃骨壺（るりこつつぼ）は、[[文祢麻呂]]の遺灰を納めたガラス製の骨壺である。「[[文祢麻呂墓出土品]]」の一部として、[[国宝]]にも指定されている。形状は球体で、紐が付いた蓋がついている<ref name="om5b">[[#奥村 1973b|奥村 1973b]], p5</ref>。ところどころは黄色であるものの、全体は半透明な緑色で、その緑色はガラス内に含まれる銅によるものと推定されている<ref name="om5b"/>。瑠璃骨壺の密度は5.25であり、酸化鉛70％程度の[[鉛ガラス]]と推定されている<ref name="om5b">[[#奥村 1973b|奥村 1973b]], p5</ref>。[[宮地嶽古墳]]から発見された[[瑠璃壺 (宮地嶽神社)|瑠璃壺]]と近似した組成である<ref name="om7b">[[#奥村 1973b|奥村 1973b]], p7</ref>。
+
+伺書の記述によると、発見された当時、金銅壺とぶつかり破損したため、漆で接合し、一部は木片で補填したという<ref name="om7b">[[#奥村 1973b|奥村 1973b]], p7</ref>。
+
+== 来歴 ==
+=== 骨壺の発見 ===
+
+== 宮地嶽神社の瑠璃骨壺との比較 ==
+
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 注釈 ===
+{{Notelist}}
+=== 出典 ===
+{{Reflist|2}}
+
+== 参考文献 ==
+* {{Cite journal|和書|author=由水常雄|year=1971|month=11|title=分禰麻呂の緑ガラス骨壺と宮地岳神社境内出土の緑ガラス骨壺の問題|journal=考古学雑誌|volume=57|issue=2|publisher=日本考古学会|pages=59–69|ref=harv}}
+* {{Cite journal|和書|author=奥村秀雄|year=1973|month=9|title=国宝文祢麻呂墓出土品 奈良県宇陀郡榛原町八滝出土(前篇)|journal=Museum|issue=270|publisher=東京国立博物館|pages=4–15|url=https://dl.ndl.go.jp/pid/4429659|ref=奥村 1973a}}
+* {{Cite journal|和書|author=奥村秀雄|year=1973|month=12|title=国宝 文祢麻呂墓出土品 奈良県宇陀郡榛原町八滝出土(後篇)|journal=Museum|issue=273|publisher=東京国立博物館|pages=4–18|url=https://dl.ndl.go.jp/pid/4429662|ref=奥村 1973b}}
+* {{Cite journal|和書|author=関忠夫|year=1975|month=3|title=宝珠の造形意匠|journal=東京国立博物館紀要|issue=10|pages=229–304|ref=harv}}
+* {{Cite book|和書|year=1976|title=国宝 原色版 1 上古・飛鳥・奈良 1|publisher=毎日新聞社}}
+* {{Cite book|和書|author=由水常雄・棚橋淳二|year=1977|title=東洋のガラス 中国・朝鮮・日本|publisher=三彩社|ref=harv}}
+
+{{デフォルトソート:るりこつつほふみねのまろほしゆつとひん}}
+[[Category:東京国立博物館の収蔵品]]
+[[Category:東京都区部の国宝]]
+[[Category:ガラス工芸]]
+
