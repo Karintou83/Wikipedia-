@@ -1,14 +1,14 @@
 {{Infobox artifact
 | name          = 文祢麻呂墓出土品
-| image         = 
-| image_caption = 
+| image         = File:J-39203 E0043950.jpg
+| image_caption = 出土品のうち、瑠璃骨壺
 | material      = 
 | size          = 
 | writing       =
 | created       = [[慶雲]]4年（[[707年]]）
 | discovered    = 文祢麻呂墓（[[奈良県]][[宇陀市]]）
 | location      = [[東京国立博物館]]（[[東京都]][[台東区]]）
-| id            = J-39201 - J-39203（東京国立博物館）
+| id            = J-39201 - J-39203（東京国立博物館）<br/>00023（国宝指定番号）<ref name="dbhk">{{Cite web |url=https://kunishitei.bunka.go.jp/heritage/detail/201/856 |title=文祢麻呂墓出土品 |website=国指定文化財等データベース|publisher=[[文化庁]] |accessdate=2025-10-25 }}</ref>
 }}
 
 '''文祢麻呂墓出土品'''（ふみのねまろぼしゅつどひん）は、[[奈良県]][[宇陀市]]の文祢麻呂墓からの出土品の総称である。[[文祢麻呂]]は、[[慶雲]]4年（[[707年]]）に死去し火葬された。その墓は、[[天保]]2年（[[1831年]]）に農民によって発見された。出土品のうち、墓誌およびその銅箱、瑠璃骨壺、金銅壺は、[[昭和]]27年（[[1952年]]）に[[国宝]]にも指定された。火葬墓およびその墓誌としては、（年代が明らかになっているうちでは）日本最古級の史料でもある。
@@ -23,6 +23,7 @@
 
 伺書によると、文祢麻呂墓が存在した土地は、常七以前からも小作地となっており、いつごろ開墾されたかすでに分からない状態であり、墓の存在にも気が付いていなかったという<ref name="om5a">[[#奥村 1973a|奥村 1973a]], p5</ref>。伺書の記述によると、常七が弟や同村の人々に畑を打ち返させていたところ、[[鍬]]の先に銅板が出てきたという<ref name="om7a">[[#奥村 1973a|奥村 1973a]], p7</ref>。そこで、周辺を掘ってみたところ、墓誌の入った銅箱および、ガラス製の骨壺が入った金銅壺も発見された<ref name="om7a"/>。ガラス製の骨壺の中には、灰（遺灰）が入っていたという記録が残っている<ref name="om7a">[[#奥村 1973a|奥村 1973a]], p7</ref>。また、金銅壺の中には、焼灰が詰まっていたとされ、実際に現存する金銅壺の外面にも木炭片が付着している<ref name="om7a"/>。
 
+[[File:西国名所図会八ノ五九.jpg|thumb|西国名所図会八巻の五九。文氏墓誌考實の写しが記載されている]]
 伺書が記述される11月以前にも奈良奉行所には発見が知らされていたようで、奈良奉行所の[[穂井田忠友]]は出土品を実見し、10月10日に「文氏墓誌考實」と呼ばれる文祢麻呂墓誌に関する考察を記している<ref name="om10a">[[#奥村 1973a|奥村 1973a]], p10</ref>。ただし、この文章の原本は残っておらず、写本でのみ存在を確認できる<ref name="om11a">[[#奥村 1973a|奥村 1973a]], p11</ref>。
 
 [[天保]]4年（[[1833年]]）になり、出土品一式は、[[除地]]へ埋め戻すように申し渡された<ref name="om8a">[[#奥村 1973a|奥村 1973a]], p8</ref>。常七の孫の証言によれば、八滝村の龍泉寺付近に埋められたとされているが、実際の経緯は不明である<ref name="om8a">[[#奥村 1973a|奥村 1973a]], p8</ref>。
@@ -36,22 +37,73 @@
 
 == 文祢麻呂墓の状態と発掘 ==
 === 墓の状態 ===
+[[File:Grave of Fumi no Nemaro, gaikan-1.jpg|thumb|220px|right|{{center|文祢麻呂墓（[[奈良県]][[宇陀市]]）}}]]
 同時代の陵墓（宇治宿祢墓、小治田安萬侶墓など）は、丘陵の中腹の南斜面に位置するものが多く、文祢麻呂墓もその例には漏れない<ref name="om5a">[[#奥村 1973a|奥村 1973a]], p5</ref>。また、同時代の陵墓では、木炭が詰まっているものも多く、火葬場所が陵墓に転用されたという説もある<ref name="om8a">[[#奥村 1973a|奥村 1973a]], p8</ref>。
 
 === 発掘と研究 ===
 
 == 構成品 ==
+[[File:西国名所図会八ノ五八.jpg|thumb|[[西国三十三所名所図会]]の八巻、五八。文祢麻呂墓出土品を描いている。]]
 国宝としての「文祢麻呂墓出土品」は、銅板墓誌（文祢麻呂墓誌）1面、銅箱1合、緑瑠璃壺1口、金銅壺1口で構成されている<ref name="om4a">[[#奥村 1973a|奥村 1973a]], p4</ref>。
 
 埋葬の方法として、遺灰を瑠璃骨壺に納め、それを金銅壺に納め、脇には墓誌と銅箱を添えて地下の竪穴に埋葬されたと推測されている<ref name="om7a">[[#奥村 1973a|奥村 1973a]], p7</ref>。その周囲には、木炭ないし焼灰で覆ったとされる<ref name="om7a">[[#奥村 1973a|奥村 1973a]], p7</ref>。ガラス製の骨壺と金銅製の壺で入れ子構造にすることは、仏舎利にも採用されている方式であり、その影響を受けている可能性が指摘されている<ref name="om7a">[[#奥村 1973a|奥村 1973a]], p7</ref>。
 
 === 文祢麻呂墓誌 ===
+{{Infobox artifact
+| name          = 文祢麻呂墓誌
+| image         = File:J-39201-2 E0043948.jpg
+| image_caption = 
+| material      = [[銅]]
+| size          = 
+| writing       = 壬申年将軍左衛士府督正四位上文祢麻 呂忌寸慶雲四年歳次丁未九月廿一日卒
+| created       = [[慶雲]]4年（[[707年]]）
+| discovered    = 文祢麻呂墓（[[奈良県]][[宇陀市]]）
+| location      = [[東京国立博物館]]（[[東京都]][[台東区]]）
+| id            = J-39201-2（東京国立博物館）<ref name="Col12">{{Cite web |url=https://colbase.nich.go.jp/collection_items/tnm/J-39201-2?locale=ja |title=文祢麻呂墓誌 |website=ColBase: 国立文化財機構所蔵品統合検索システム|publisher=[[国立文化財機構]] |accessdate=2026-10-25 }}</ref><br/>00023（国宝指定番号）<ref name="dbhk"/>
+}}
+{{Infobox artifact
+| name          = 文祢麻呂墓誌および函
+| image         = File:J-39201-2 E0138416.jpg
+| image_caption = 
+| material      = 
+| size          = 
+| writing       =
+| created       = [[慶雲]]4年（[[707年]]）
+| discovered    = 文祢麻呂墓（[[奈良県]][[宇陀市]]）
+| location      = [[東京国立博物館]]（[[東京都]][[台東区]]）
+| id            = J-39201（東京国立博物館）<ref name="Col1">{{Cite web |url=https://colbase.nich.go.jp/collection_items/tnm/J-39201?locale=ja |title=文祢麻呂墓誌および函 |website=ColBase: 国立文化財機構所蔵品統合検索システム|publisher=[[国立文化財機構]] |accessdate=2026-10-25 }}</ref><br/>00023（国宝指定番号）<ref name="dbhk"/>
+}}
 墓誌には以下のように記されている<ref name="om11a">[[#奥村 1973a|奥村 1973a]], p11</ref>。
 「壬申年將軍左衛士府督正四位上文祢麻
 　呂忌寸慶雲四年歳次丁未九月廿一日卒」
 
 === 瑠璃骨壺 ===
+{{Infobox artifact
+| name          = 瑠璃骨壺
+| image         = File:J-39203 E0043950.jpg
+| image_caption = 
+| material      = [[ガラス]]
+| size          = 
+| writing       =
+| created       = [[慶雲]]4年（[[707年]]）
+| discovered    = 文祢麻呂墓（[[奈良県]][[宇陀市]]）
+| location      = [[東京国立博物館]]（[[東京都]][[台東区]]）
+| id            = J-39203（東京国立博物館）<ref name="Col3">{{Cite web |url=https://colbase.nich.go.jp/collection_items/tnm/J-39203?locale=ja |title=瑠璃骨壺 |website=ColBase: 国立文化財機構所蔵品統合検索システム|publisher=[[国立文化財機構]] |accessdate=2026-10-25 }}</ref><br/>00023（国宝指定番号）<ref name="dbhk"/>
+}}
+
 === 金銅壺 ===
+{{Infobox artifact
+| name          = 金銅壺
+| image         = File:J-39202 E0137069.jpg
+| image_caption = 
+| material      = [[金銅]]
+| size          = 
+| writing       =
+| created       = [[慶雲]]4年（[[707年]]）
+| discovered    = 文祢麻呂墓（[[奈良県]][[宇陀市]]）
+| location      = [[東京国立博物館]]（[[東京都]][[台東区]]）
+| id            = J-39202（東京国立博物館）<ref name="Col2">{{Cite web |url=https://colbase.nich.go.jp/collection_items/tnm/J-39202?locale=ja |title=金銅壺 |website=ColBase: 国立文化財機構所蔵品統合検索システム|publisher=[[国立文化財機構]] |accessdate=2026-10-25 }}</ref><br/>00023（国宝指定番号）<ref name="dbhk"/>
+}}
 
 == 脚注 ==
 {{脚注ヘルプ}}
